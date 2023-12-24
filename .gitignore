@@ -1,0 +1,8 @@
+bin/
+obj/
+/Local/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/msbuild.log
+*.DotSettings.user
